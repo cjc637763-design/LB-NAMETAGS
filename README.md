@@ -3,3 +3,4 @@
 # endorsed or otherwise sponsored by Another Axiom. Portions
 # of the materials contained herein are property of Another Axiom.
 # ©2021 Another Axiom Inc.
+you can not Distribute this in any way you cannot modify it in any way
